@@ -11,6 +11,9 @@ This repository contains five UW AMATH 482 class projects:
 ## Purpose
 These projects mean to practice the important concepts in applied math.
 They are also for the homework of the course Amath 482.
+I'm the main contributor of these project while my professor Craig Gin and TA Iris designs them.
 
 ## Implement
-In order for users
+Users can start these project with MATLAB or Python. Some other programming language may work as well.
+Users can get help with the project by reading the book Data-Driven Modeling & Scientific Computation: Methods for Complex Systems & Big Data by J. Nathan Kutz. It includes some thought provoking codes.
+
