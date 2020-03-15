@@ -11,7 +11,7 @@ This repository contains five UW AMATH 482 class projects:
 ## Purpose
 These projects mean to practice the important concepts in applied math.
 They are also for the homework of the course Amath 482.
-I'm the main contributor of these project while my professor Craig Gin and TA Iris designs them.
+I'm the main contributor of these projects while my professor, Craig Gin and TA, Iris designs them.
 
 ## Implement
 Users can start these project with MATLAB or Python. Some other programming language may work as well.
